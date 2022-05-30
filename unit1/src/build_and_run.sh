@@ -1,2 +1,2 @@
-javac -sourcepath . main/java/firstPackage/Main.java
-java main.java.firstPackage.Main
+javac -sourcepath . main/java/student/Main.java
+java main.java.student.Main
